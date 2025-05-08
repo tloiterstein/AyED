@@ -1,7 +1,7 @@
 # AyED
-Nombre: Tomas
-Apellido: Loiterstein
-Comisión: K1023
+**Nombre**: Tomas
+**Apellido**: Loiterstein
+**Comisión**: K1023
 Output de la consola: 
 
 g++ (Ubuntu 13.3.8-6ubuntu2~24.04) 13.3.0  
